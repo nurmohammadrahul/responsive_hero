@@ -1,11 +1,25 @@
-# React + Vite
+# 🍓 Strawberry TCJ – Fruit Landing Page
 
-Enjoy the Free code + Assets 😍 
-- Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+**Strawberry TCJ** is a clean and vibrant landing page designed for a fruit shop or organic food business. This project highlights a modern layout with engaging visuals, responsive design, and smooth scrolling—ideal for showcasing fresh products like strawberries.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live Site**: [https://strawberry-tcj.netlify.app/](https://strawberry-tcj.netlify.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+
+- Beautiful hero section with call-to-action
+- Product showcase with images and descriptions
+- Fully responsive design (mobile-first)
+- Smooth UI/UX and consistent color scheme
+- Tailwind CSS for fast and efficient styling
+
+---
+
+## 🔧 Tech Stack
+
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript (Vanilla)**
+
+---
